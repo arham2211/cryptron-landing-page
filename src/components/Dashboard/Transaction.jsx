@@ -118,24 +118,26 @@ const Transaction = () => {
     },
     {
       icon: bitcoin,
-      type: "Pending",
+      type: "Receive",
       wallet: "bvdw355509*********4gbnwou432m",
-      status: "Failed",
+      status: "Pending",
       date: "25 Sep 2024",
       amountUSD: "2 BTC",
       amountCrypto: "500.00",
       cryptoSymbol: "USDT",
+      name: "Bitcoin",
     },
 
     {
       icon: solana,
-      type: "Send",
+      type: "Buy",
       wallet: "bvdw355509*********4gbnwou432m",
       status: "Completed",
-      date: "25 Sep 2024",
+      date: "16 Jan 2025",
       amountUSD: "$500.00",
       amountCrypto: "500.00",
       cryptoSymbol: "USDT",
+      name: "Solana",
     },
   ];
 

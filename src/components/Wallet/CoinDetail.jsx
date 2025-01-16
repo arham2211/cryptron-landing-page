@@ -120,18 +120,18 @@ const CoinDetail = () => {
     },
     {
       icon: bitcoin,
-      type: "Pending",
-      status: "Failed",
-      date: "25 Sep 2025",
+      type: "Receive",
+      status: "Pending",
+      date: "25 Sep 2024",
       amountUSD: "2 BTC",
       cryptoSymbol: "USDT",
     },
 
     {
       icon: solana,
-      type: "Send",
+      type: "Buy",
       status: "Completed",
-      date: "25 Sep 2024",
+      date: "16 Jan 2025",
       amountUSD: "$500.00",
       cryptoSymbol: "USDT",
     },
