@@ -61,10 +61,10 @@ const Header = ({ isSidebarVisible, toggleSidebar }) => {
         <div className="flex flex-row lg:items-center">
           {/* Logo and Welcome Section */}
           <div className="flex flex-col sm:flex-row items-center mb-4 md:mb-0">
-            <a className="flex items-center text-3xl cursor-pointer mb-3 sm:mb-0">
-              <img src={CrytonLogo} alt="Crypton Logo" />
+            <NavLink to="/" className="flex items-center text-3xl cursor-pointer mb-3 sm:mb-0">
+              <img src={CrytonLogo} alt="Cryptron Logo" />
               <span className="ml-1">Crpytron</span>
-            </a>
+            </NavLink>
             <div className="md:hidden lg:flex items-center mt-2 sm:mt-0 sm:ml-7">
               <div className="relative text-white p-1 rounded-md bg-[#464646]">
                 <hr className="absolute -z-10 h-24 w-[0.5px] -top-9 left-3 bg-[#282828]" />
