@@ -32,9 +32,8 @@ This project was delivered as part of a freelance engagement, with a strong emph
 
 ## 👨‍💻 Author
 
-Developed by: Arham Affan
-Role: Freelance Frontend Developer
-GitHub: @arham2211
-Contact: arhamaffan22@gmail.com
-
+**Developed by:** Arham Affan  
+**Role:** Freelance Frontend Developer  
+**GitHub:** [@arham2211](https://github.com/arham2211)  
+**Contact:** arhamaffan22@gmail.com
 
