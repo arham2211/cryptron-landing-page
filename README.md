@@ -1,8 +1,40 @@
-# React + Vite
+# 💻 Cryptron Frontend UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A freelance frontend project for **Cryptron**, built with **React.js**. This project focuses on delivering a clean, modern, and fully responsive UI/UX tailored for web3/crypto-based applications.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Project Overview
+
+The Cryptron frontend is a high-performance and visually appealing web interface designed with:
+
+- 🔹 Modern design principles
+- 🔹 Mobile-first responsiveness
+- 🔹 Clean code architecture
+- 🔹 Reusable component structure
+
+This project was delivered as part of a freelance engagement, with a strong emphasis on **usability**, **consistency**, and **scalability** for future backend integration.
+
+---
+
+## 🚀 Tech Stack
+
+| Feature            | Technology         |
+|--------------------|--------------------|
+| Framework          | React.js           |
+| Styling            | Tailwind CSS / CSS Modules |
+| Routing            | React Router       |
+| UI/UX Approach     | Mobile-first, Responsive Design |
+| Package Management | npm / yarn         |
+| Deployment Ready   | Yes (Vercel / Netlify compatible) |
+
+---
+
+## 👨‍💻 Author
+
+Developed by: Arham Affan
+Role: Freelance Frontend Developer
+GitHub: @arham2211
+Contact: arhamaffan22@gmail.com
+
+
